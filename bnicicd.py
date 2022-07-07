@@ -6,7 +6,7 @@ print("Testing CI/CD BNI")
 
 response = requests.get("https://www.google.com")
 
-print(response.text)
+# print(response.text)
 
 waktu = datetime.now()
 
